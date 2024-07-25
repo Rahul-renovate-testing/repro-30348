@@ -1,0 +1,18 @@
+{
+  "_readme": [
+    "This file locks the dependencies of your project to a known state",
+    "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+    "This file is @generated automatically"
+  ],
+  "content-hash": "h34j5h3p3g4ug34u34543j5h34j53h5j",
+  "packages": [
+    {
+      "name": "magento/product-community-edition",
+      "version": "2.4.6-p3",
+      "source": {
+        "type": "git",
+        "url": "https://repo.magento.com/"
+      }
+    }
+  ]
+}
