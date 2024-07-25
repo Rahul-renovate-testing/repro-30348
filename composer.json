@@ -1,12 +1,5 @@
 {
-  "name": "acme/brilliant-wordpress-site",
-  "description": "My brilliant WordPress site",
   "require": {
     "magento/product-community-edition": "<2.4.7"
-  },
-  "autoload": {
-    "psr-0": {
-      "Acme": "src/"
-    }
   }
 }
